@@ -1,0 +1,17 @@
+# Data files (competition data and account-level outputs)
+Dev_data_to_be_shared.csv
+validation_data_to_be_shared.csv
+final_validation_predictions.csv
+behavior_score.csv
+null_values.csv
+nunique_values.csv
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+env/
